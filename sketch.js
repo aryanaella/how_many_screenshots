@@ -15,10 +15,6 @@ let hold;
 
 let textRow = 50;
 
-function NavigationPreloadManager() {
-  img = loadImage()
-}
-
 function setup() {
   compressedGraphics = createGraphics(320, 240);
 
